@@ -27,7 +27,7 @@
 
 <!--examples-->
 ```yaml
-name: Example
+name: Uk
 uses: lowlighter/metrics@latest
 with:
   template: terminal
