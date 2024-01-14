@@ -1,5 +1,6 @@
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukly&layout=compact"><br><br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukly&layout=compact"><br><br>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
