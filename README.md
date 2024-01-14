@@ -1,1 +1,1 @@
-###  Hey everyone, I'm JeongUk Lee! 👋
+###  Hi, I'm JeongUk Lee! 👋
